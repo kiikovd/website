@@ -1,0 +1,17 @@
+@import "../libs/bootstrap/bootstrap-grid.min.css";
+@font-face {
+  font-family: "RobotoRegular";
+  src: url(../fonts/RobotoRegular/RobotoRegular.ttf);
+}
+@font-face {
+  font-family: "RobotoBold";
+  src: url(../fonts/RobotoBold/RobotoBold.ttf);
+}
+body {
+  background: #ccc;
+}
+body h1 {
+  color: red;
+}
+
+/*# sourceMappingURL=main.css.map */

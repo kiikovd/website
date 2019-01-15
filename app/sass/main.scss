@@ -1,0 +1,12 @@
+@import "fonts";
+@import "libs";
+@import "vars";
+
+body{
+    background: #ccc;
+    h1 {
+        color: red;
+    }
+}
+
+@import "media"; // Всегда в конце
